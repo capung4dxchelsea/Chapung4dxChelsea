@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://capung4dxchelsea.github.io/Chapung4dxChelsea/sitemap.xml
+Sitemap: https://capung4dxchelsea.github.io/Chapung4dxChelsea/sitemap-baru.xml
